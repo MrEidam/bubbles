@@ -34,9 +34,9 @@ body{
 .container .bubbles span:nth-child(even){
     background: #ff2d75;
     box-shadow: 
-        0 0 0 10px #ff2d7544,
-        0 0 50px #ff2d75,
-        0 0 100px #ff2d75;
+        0 0 0 10px #2dff7544,
+        0 0 50px #2dff75,
+        0 0 100px #2dff75;
 }
 @keyframes animate{
     from{transform: translateY(100vh) scale(0);}
