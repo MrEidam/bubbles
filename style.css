@@ -32,7 +32,7 @@ body{
     animation-duration: calc(125s / var(--i));
 }
 .container .bubbles span:nth-child(even){
-    background: #ff2d75;
+    background: #2dff75;
     box-shadow: 
         0 0 0 10px #2dff7544,
         0 0 50px #2dff75,
